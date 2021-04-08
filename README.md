@@ -1,4 +1,4 @@
-Heyyy, I’m Susana 👋🏽
+Heyyy, I’m Susana (she/her) 👋🏽
 
 I'm obsessed with hoarding plants 🌱 my two cats 🐱 🐯  & currently attending a Software Engineering Bootcamp!!
 
