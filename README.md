@@ -1,6 +1,6 @@
 Heyyy, I’m Susana 👋🏽
 
-I'm obsessed with hoarding plants 🌱 my two cats 🐱 🐯 && currently attending a Software Engineering Bootcamp!!
+I'm obsessed with hoarding plants 🌱 my two cats 🐱 🐯  & currently attending a Software Engineering Bootcamp!!
 
 Watch me take on this exciting new coding adventure!
 
