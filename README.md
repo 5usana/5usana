@@ -4,7 +4,7 @@ I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯  & cur
 
 Watch me take on this exciting new coding adventure!
 
-💛 ✨ ⚡️  to collaborate on EVERYTHING, I am beyond excited to keep learning!
+💛 ✨ ⚡️  I want to collaborate on EVERYTHING, I am beyond excited to keep learning!
  
 
 
