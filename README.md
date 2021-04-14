@@ -5,8 +5,7 @@ I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯  & cur
 Watch me take on this exciting new coding adventure!
 
 💛 ✨ ⚡️  I want to collaborate on EVERYTHING, I am beyond excited to keep learning!
- 
-[![5usana](https://github-readme-stats.vercel.app/api?username=5usana&theme=greywhite)](https://github.com/5usana/github-readme-stats)
+
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -24,6 +23,16 @@ Watch me take on this exciting new coding adventure!
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dart/dart.png" />
+
+<h2 align="left">Let's Connect: </h2>
+<p align="left">
+<a href="https://twitter.com/Susana_debugs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Susana_debugs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/susanacmartins/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="susanacmartins" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/susanawashere/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="susanawashere" height="30" width="40" /></a>
+</p>
+
+
+[![5usana](https://github-readme-stats.vercel.app/api?username=5usana&theme=greywhite)](https://github.com/5usana/github-readme-stats)
 
 <br />
 <br />
