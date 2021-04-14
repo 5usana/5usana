@@ -7,7 +7,7 @@ Watch me take on this exciting new coding adventure!
 💛 ✨ ⚡️  I want to collaborate on EVERYTHING, I am beyond excited to keep learning!
 
 
-### Languages and Tools:
+<h2> Languages and Tools: </h2>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -32,6 +32,8 @@ Watch me take on this exciting new coding adventure!
  <a href="https://www.instagram.com/susanawashere/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="susanawashere" height="30" width="40" /></a>
 </p>
 
+<br />
+<h2> By the Numbers: </h2>
 
 [![5usana](https://github-readme-stats.vercel.app/api?username=5usana&theme=greywhite)](https://github.com/5usana/github-readme-stats)
 
