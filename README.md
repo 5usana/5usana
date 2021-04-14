@@ -35,7 +35,7 @@ Watch me take on this exciting new coding adventure!
 <br />
 <h2> By the Numbers: </h2>
 
-[![5usana](https://github-readme-stats.vercel.app/api?username=5usana&theme=greywhite)](https://github.com/5usana/github-readme-stats)
+![5usana's GitHub stats](https://github-readme-stats.vercel.app/api?username=5usana&show_icons=true&theme=greywhite)
 
 <br />
 <br />
