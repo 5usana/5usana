@@ -1,10 +1,10 @@
-Heyyy, I’m Susana (she/her) 👋🏽
+Heyyy, I’m Susana (she/her) 🤙🏽
 
-I'm obsessed with hoarding plants 🌱 my two cats 🐱 🐯  & currently attending a Software Engineering Bootcamp!!
+I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯  & currently attending a Software Engineering Bootcamp.
 
 Watch me take on this exciting new coding adventure!
 
-💛 I’m looking to collaborate on EVERYTHING, I'm so excited to keep learning!
+💛 I’m looking to collaborate on EVERYTHING, I am beyond excited to keep learning!
  
 
 
