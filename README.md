@@ -6,7 +6,7 @@ Watch me take on this exciting new coding adventure!
 
 💛 ✨ ⚡️  I want to collaborate on EVERYTHING, I am beyond excited to keep learning!
  
-
+[![5usana](https://github-readme-stats.vercel.app/api?username=5usana&theme=greywhite)](https://github.com/5usana/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
