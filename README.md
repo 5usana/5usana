@@ -20,6 +20,7 @@ Watch me take on this exciting new coding adventure!
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <br />
 <br />
 <h2 align="left"> Let's Connect: </h2>
@@ -27,12 +28,15 @@ Watch me take on this exciting new coding adventure!
 <a href="https://twitter.com/Susana_debugs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Susana_debugs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/susanacmartins/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="susanacmartins" height="30" width="40" /></a>
  <a href="https://www.instagram.com/susanawashere/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="susanawashere" height="30" width="40" /></a>
+
 </p>
 
 <br />
 <h2> By the Numbers: </h2>
 
-![5usana's GitHub stats](https://github-readme-stats.vercel.app/api?username=5usana&show_icons=true&theme=greywhite)
+<a href="https://github.com/5usana/github-readme-stats">
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=5usana&show_icons=true&theme=greywhite&layout=compact">
+</a>
 
 <br />
 <br />
