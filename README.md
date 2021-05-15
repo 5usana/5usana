@@ -34,10 +34,10 @@ Watch me take on this exciting new coding adventure!
 <br />
 <h2> By the Numbers: </h2>
 
-<a href="https://github.com/5usana/github-readme-stats">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=5usana&show_icons=true&theme=greywhite&layout=compact">
-</a>
+[![5usana's GitHub stats](https://github-readme-stats.vercel.app/api?username=5usana&theme=radical&hide=stars,issues)](https://github.com/5usana/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5usana&theme=radical&layout=compact)](https://github.com/5usana/github-readme-stats)
+</a>
 <br />
 <br />
 
