@@ -2,8 +2,6 @@ Heyyy, I’m Susana (she/her) 🤙🏽
 
 I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯 & seeking out adventure.
 
-Watch me take on this exciting new coding adventure!
-
 💛 ✨ ⚡️ 
 
 
