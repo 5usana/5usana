@@ -1,6 +1,6 @@
 Heyyy, I’m Susana (she/her) 🤙🏽
 
-I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯 & seeking out adventure.
+I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯 & diving into Cloud solutions.
 
 💛 ✨ ⚡️ 
 
