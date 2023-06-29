@@ -1,4 +1,4 @@
-Heyyy, I’m Susana (she/her) 🤙🏽
+Heyyy, I’m Susana (she/her) 🤙🏽 Cloud newb
 
 I'm obsessed with hoarding plants 🌱 my two cats 🐱(Giga + Mushi)🐯 & diving into Cloud solutions.
 
